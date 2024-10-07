@@ -1,1 +1,3 @@
-# qa_pw_basic_page_methods
+# Playwright: practice for basic page interaction methods 
+
+This repo contains the practical task for the basic page interaction methods. 
