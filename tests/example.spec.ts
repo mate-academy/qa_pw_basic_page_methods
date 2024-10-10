@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test';
+import { test } from '@playwright/test';
 
 test('Sign IN link test', async ({ page }) => {
   await page.goto('https://conduit.mate.academy');
@@ -9,8 +9,6 @@ test('Sign IN link test', async ({ page }) => {
  test('Sign UP link test', async ({ page }) => {
   // Add your code below this line:
 
-
-  
  });
  
  
